@@ -22,7 +22,4 @@
 
     <!-- Whether the device supports Smart Pixels -->
     <bool name="config_supportSmartPixels">true</bool>
-
-    <!-- Whether to use Richtap vibration -->
-    <bool name="config_usesRichtapVibration">true</bool>
 </resources>

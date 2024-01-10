@@ -10,7 +10,7 @@ DISABLE_ARTIFACT_PATH_REQUIREMENTS := true
 TARGET_SUPPORTS_QUICK_TAP := true
 TARGET_IS_PIXEL := true
 TARGET_IS_PIXEL_8 := true
-WITH_GMS := true
+WITH_GAPPS := true
 TARGET_HAS_UDFPS := true
 EXTRA_UDFPS_ANIMATIONS := true
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
